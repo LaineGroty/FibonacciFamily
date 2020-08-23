@@ -1,2 +1,2 @@
 # FibonacciFamily
-A lightweight, high-speed library for the Fibonacci and its generalizations
+A lightweight, high-speed library for the Fibonacci sequence and its generalizations
